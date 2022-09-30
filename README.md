@@ -14,7 +14,7 @@
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=thiagoamacedo&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Mateusfdsm1&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   </div>
   
   ##
